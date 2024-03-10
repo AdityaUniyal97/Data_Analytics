@@ -1,0 +1,9 @@
+Q2 - What is Bussiness Intelligence and Data Science
+Ans - Bussiness Intelligence basically analyise the previus data and insights to describe the bussiness  
+      trends
+    - Bussiness Itelligence enables us to take the data from Internal or External source prepare it run 
+      querries in it and create a dash bored to answere the questions like revenue analysis , bussiness problems
+    - Bussiness Intelligence can calculate the impact of certain event in future
+    
+    ON THE OTHER HAND
+    - Data Science is more forword looking approch with the aim   
