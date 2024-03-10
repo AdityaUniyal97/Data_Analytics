@@ -13,7 +13,7 @@ Types of Big Data or  Characterstics of Data :
 2 - Unstructured Data
 3 - SemiStructured Data
 
-1- Structured Data => is highly organised data where data is stored in structured                      format . Structured Data follows RDBMS technology
+1- Structured Data => is highly organised data where data is stored in structured format . Structured Data follows RDBMS technology
 2- Unstructured Data => has no inherent strucure here data can be in any form 
 like - text,image,etc.
 3- SemiStructured => data is manged partially here tags , and markers are used to separate
