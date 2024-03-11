@@ -1,0 +1,15 @@
+Q3 Who is Data Scientist ?
+
+Ans - Data Scientist is the one who practices the art of data Science 
+    - The term data Scientist has been coined after considering the fact that data Scientist draws lot of information 
+      from Scientific field.
+    - Data Scientist always need to find the answere of what,how,why,who of data available to them
+    - Data Sceitist are required to make clear decision and worked according to those in achiving the goal in less time 
+      and in less intervals.
+
+WHAT DOES DATA SCIENTIST DO
+- Data Scietist are the one who crack the complex problems with their strong expertise
+- Data Sceintist work with several statistics , mathametics ,computer science etc.
+- Data Science work with latest technology to reching the conclusion that is benficial for an orgraninstaion growth
+- Data Scientist provide data in much more managabel form rather than the raw data
+
