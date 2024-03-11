@@ -1,0 +1,38 @@
+Q1 - What is Big Data ?
+Ans - Big data is also data but with huge size 
+    - Big data is term used to describe the collection of data and yet growing exponenetially with time
+    - In short the data is so large that none of the traditionally data management tool is able to store or manage it
+
+Example of Big Data are-:>
+                  - New york stock exchange generate about 1TB of new data everydata.
+                  - Stock Excnage.
+                  - Social Media.
+
+Types of Big Data or  Characterstics of Data :
+1 - Structured Data
+2 - Unstructured Data
+3 - SemiStructured Data
+
+1- Structured Data => is highly organised data where data is stored in structured format . Structured Data follows RDBMS technology
+2- Unstructured Data => has no inherent strucure here data can be in any form 
+like - text,image,etc.
+3- SemiStructured => data is manged partially here tags , and markers are used to separate
+the elements
+
+DIFERENCE BETWEEN STRUCTURED AND UNSTRUCTURED DATA
+
+STRUCTURED DATA - Structured data can be displayed in rows , column , attributes
+                - Structured data inlcude Number , Strings , Dates
+                - Structured data required less storage
+                - Structured data is easier to manage and protect with legacy solution.
+
+UNSTRUCTURED DATA - Unstructured data cannot be displayed in rows , column , attributes.
+                  - Unstructured data include text , image , audio , etc.
+                  - Unstructured data required more storgae.
+                  - Unstructured data is diificult to manage and store with legacy solution                
+
+3VS OF DATA-
+Volume = data quantity
+Velocity = data speed
+Variety = data types
+value = data truthfullness                 
